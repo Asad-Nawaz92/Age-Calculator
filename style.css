@@ -104,8 +104,8 @@ button:hover {
 
     #birthdate {
         font-size: 8px;
-        background-color: yellow;
-        color: black;
+        background-color: yellow !important;
+        color: black !important;
     }
 
     #result {
@@ -128,8 +128,8 @@ button:hover {
 
     #birthdate {
         font-size: 4px;
-        background-color: yellow;
-        color: black;
+        background-color: yellow !important;
+        color: black !important;
     }
 
     #result {
